@@ -1,0 +1,26 @@
+# GitHub 101 Practice Repo
+
+Repo นี้ใช้สำหรับสอบปฏิบัติ GitHub 101 ของนิสิตใน ESE Summer Internship 2026
+
+## เป้าหมาย
+
+ให้นิสิตฝึกใช้งาน GitHub เบื้องต้นในบริบทของ project ได้แก่
+
+- เปิด repo และอ่าน README
+- แก้ไข README
+- สร้างไฟล์ evidence ของตนเอง
+- เขียน commit message ให้สื่อความหมาย
+- สร้าง GitHub Issue
+- ส่ง link หลักฐานที่เปิดตรวจได้
+
+---
+
+## Student Submission Table
+
+ให้นิสิตเพิ่มข้อมูลของตนเองในตารางนี้ แล้วใส่ link ไปยังไฟล์ evidence และ issue ของตนเอง
+
+| Name | Team | Role | Evidence File | Issue Link |
+|---|---|---|---|---|
+| Example Student | Team 00 | Demo | [example evidence](docs/evidence/example-student.md) | - |
+|ภูมิภัทร|Team | Project manager |docs/evidence/67050571-PoomipatTuthano.md |
+
